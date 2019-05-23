@@ -1,6 +1,6 @@
 ### #! /bin/bash
 # HackerrankBash
-![bash](/img/binbash.jpg)
+![bash](/img/binbash.jpg =250x100)
 contoh problem solve hackerrank menggunakan BASH
 subdomain : 
 - Bash
